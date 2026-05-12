@@ -1,0 +1,13 @@
+{
+  "name": "sols-tracker-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord pour Sol's RNG Tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "ws": "^8.18.0"
+  }
+}

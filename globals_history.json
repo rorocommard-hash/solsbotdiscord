@@ -1,0 +1,466 @@
+{
+  "730831108874436678": [
+    {
+      "auraName": "Sailor : Admiral",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 135,000,000",
+      "biome": null,
+      "timestamp": 1778450919
+    },
+    {
+      "auraName": "Jazz : Orchestra",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 336,870,912",
+      "biome": null,
+      "timestamp": 1778453008
+    }
+  ],
+  "1041024272879079564": [
+    {
+      "auraName": "Ruins",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 500,000,000",
+      "biome": null,
+      "timestamp": 1778451837
+    },
+    {
+      "auraName": "Eggsistance",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 307,777,777",
+      "biome": null,
+      "timestamp": 1778480090
+    },
+    {
+      "auraName": "Prophecy",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 275,649,430",
+      "biome": null,
+      "timestamp": 1778495694
+    },
+    {
+      "auraName": "Overture",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 150,000,000",
+      "biome": null,
+      "timestamp": 1778512220
+    },
+    {
+      "auraName": "Spectraflow",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 100,000,000",
+      "biome": null,
+      "timestamp": 1778512295
+    },
+    {
+      "auraName": "AbyssalHunter",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 400,000,000",
+      "biome": null,
+      "timestamp": 1778512295
+    }
+  ],
+  "1192539470961061958": [
+    {
+      "auraName": "Sailor : Admiral",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 135,000,000",
+      "biome": null,
+      "timestamp": 1778456661
+    }
+  ],
+  "1165293986882277561": [
+    {
+      "auraName": "Sailor : Admiral",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 540,000,000",
+      "biome": null,
+      "timestamp": 1778459575
+    }
+  ],
+  "727167023175696417": [
+    {
+      "auraName": "Exotic : Void",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 299,999,999",
+      "biome": null,
+      "timestamp": 1778463571
+    }
+  ],
+  "1332770016495403062": [
+    {
+      "auraName": "Virtual Memory",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 232,232,232",
+      "biome": null,
+      "timestamp": 1778463801
+    }
+  ],
+  "958698765508812810": [
+    {
+      "auraName": "Impeached",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 200,000,000",
+      "biome": null,
+      "timestamp": 1778464410
+    },
+    {
+      "auraName": "Starscourge : Radiant",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 100,000,000",
+      "biome": "STARFALL",
+      "timestamp": 1778465046
+    }
+  ],
+  "1241793526698610840": [
+    {
+      "auraName": "Hyper-Volt : Ever-Storm",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 225,000,000",
+      "biome": null,
+      "timestamp": 1778465451
+    },
+    {
+      "auraName": "Felled",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 180,000,000",
+      "biome": null,
+      "timestamp": 1778466649
+    }
+  ],
+  "1074277002992963705": [
+    {
+      "auraName": "Hyper-Volt : Ever-Storm",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 225,000,000",
+      "biome": null,
+      "timestamp": 1778465966
+    }
+  ],
+  "708404254779637803": [
+    {
+      "auraName": "Lily",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 112,000,000",
+      "biome": null,
+      "timestamp": 1778468270
+    },
+    {
+      "auraName": "Flora : Evergreen",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 370,073,730",
+      "biome": null,
+      "timestamp": 1778472570
+    },
+    {
+      "auraName": "GARGANTUA",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 430,000,000",
+      "biome": null,
+      "timestamp": 1778505243
+    },
+    {
+      "auraName": "dreamer",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 315,000,000",
+      "biome": null,
+      "timestamp": 1778521359
+    }
+  ],
+  "1493342358354268202": [
+    {
+      "auraName": "Starscourge : Radiant",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 100,000,000",
+      "biome": "STARFALL",
+      "timestamp": 1778472991
+    },
+    {
+      "auraName": "Astral : Zodiac",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 267,200,000",
+      "biome": null,
+      "timestamp": 1778525282
+    }
+  ],
+  "688050485567291436": [
+    {
+      "auraName": "Ruins",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 500,000,000",
+      "biome": null,
+      "timestamp": 1778480779
+    },
+    {
+      "auraName": "Lumenpool",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 220,000,000",
+      "biome": null,
+      "timestamp": 1778499570
+    },
+    {
+      "auraName": "Twilight : Withering Grace",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 180,000,000",
+      "biome": null,
+      "timestamp": 1778509365
+    },
+    {
+      "auraName": "BLOODLUST",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 300,000,000",
+      "biome": "CORRUPTION",
+      "timestamp": 1778536042
+    },
+    {
+      "auraName": "Chromatic : Genesis",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 99,999,999",
+      "biome": null,
+      "timestamp": 1778582362
+    }
+  ],
+  "825332623374811180": [
+    {
+      "auraName": "BLOODLUST",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 300,000,000",
+      "biome": "CORRUPTION",
+      "timestamp": 1778482384
+    },
+    {
+      "auraName": "Symphony",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 175,000,000",
+      "biome": null,
+      "timestamp": 1778520256
+    },
+    {
+      "auraName": "Astral : Zodiac",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 267,200,000",
+      "biome": null,
+      "timestamp": 1778536370
+    }
+  ],
+  "1456042256682451217": [
+    {
+      "auraName": "Overture",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 150,000,000",
+      "biome": null,
+      "timestamp": 1778484031
+    },
+    {
+      "auraName": "Spectraflow",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 100,000,000",
+      "biome": null,
+      "timestamp": 1778487144
+    }
+  ],
+  "348839548924461058": [
+    {
+      "auraName": "Spectraflow",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 100,000,000",
+      "biome": null,
+      "timestamp": 1778487680
+    },
+    {
+      "auraName": "Hyper-Volt : Ever-Storm",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 225,000,000",
+      "biome": null,
+      "timestamp": 1778503526
+    },
+    {
+      "auraName": "Starscourge : Radiant",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 100,000,000",
+      "biome": "STARFALL",
+      "timestamp": 1778581358
+    }
+  ],
+  "1080156477110616065": [
+    {
+      "auraName": "FELLED",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 180,000,000",
+      "biome": null,
+      "timestamp": 1778494058
+    }
+  ],
+  "970385303300874350": [
+    {
+      "auraName": "Overture : History",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 300,000,000",
+      "biome": null,
+      "timestamp": 1778494173
+    }
+  ],
+  "1089316452546383993": [
+    {
+      "auraName": "AbyssalHunter",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 100,000,000",
+      "biome": "Rainy",
+      "timestamp": 1778495996
+    }
+  ],
+  "1007211373882781756": [
+    {
+      "auraName": "Ruins",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 500,000,000",
+      "biome": null,
+      "timestamp": 1778498033
+    },
+    {
+      "auraName": "Lily",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 112,000,000",
+      "biome": null,
+      "timestamp": 1778509749
+    },
+    {
+      "auraName": "Starscourge : Radiant",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 100,000,000",
+      "biome": "STARFALL",
+      "timestamp": 1778521300
+    }
+  ],
+  "1035257167260958780": [
+    {
+      "auraName": "Chromatic : Genesis",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 99,999,999",
+      "biome": null,
+      "timestamp": 1778501690
+    }
+  ],
+  "713743944164311042": [
+    {
+      "auraName": "Twilight : Withering Grace",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 180,000,000",
+      "biome": null,
+      "timestamp": 1778504178
+    },
+    {
+      "auraName": "Felled",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 180,000,000",
+      "biome": null,
+      "timestamp": 1778514761
+    },
+    {
+      "auraName": "AbyssalHunter",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 400,000,000",
+      "biome": null,
+      "timestamp": 1778535216
+    }
+  ],
+  "1075393773292494880": [
+    {
+      "auraName": "Lily",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 112,000,000",
+      "biome": null,
+      "timestamp": 1778510916
+    }
+  ],
+  "607404321520353310": [
+    {
+      "auraName": "Exotic : Void",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 299,999,999",
+      "biome": null,
+      "timestamp": 1778512597
+    },
+    {
+      "auraName": "Prophecy",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 275,649,430",
+      "biome": null,
+      "timestamp": 1778529144
+    }
+  ],
+  "1226576450694418533": [
+    {
+      "auraName": "GARGANTUA",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 430,000,000",
+      "biome": null,
+      "timestamp": 1778512890
+    }
+  ],
+  "993832829781811260": [
+    {
+      "auraName": "Virtual Memory",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 232,232,232",
+      "biome": null,
+      "timestamp": 1778520640
+    }
+  ],
+  "1458474923533271060": [
+    {
+      "auraName": "Starscourge : Radiant",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 100,000,000",
+      "biome": "STARFALL",
+      "timestamp": 1778521692
+    }
+  ],
+  "794343063023386646": [
+    {
+      "auraName": "Felled",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 180,000,000",
+      "biome": null,
+      "timestamp": 1778524520
+    }
+  ],
+  "1012339222864207883": [
+    {
+      "auraName": "Jazz : Orchestra",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 336,870,912",
+      "biome": null,
+      "timestamp": 1778524566
+    },
+    {
+      "auraName": "Exotic : Void",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 299,999,999",
+      "biome": null,
+      "timestamp": 1778524953
+    },
+    {
+      "auraName": "Impeached",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 200,000,000",
+      "biome": null,
+      "timestamp": 1778525001
+    }
+  ],
+  "1140727878716239914": [
+    {
+      "auraName": "Hyper-Volt : Ever-Storm",
+      "tier": "GLORIOUS",
+      "chance": "1 IN 225,000,000",
+      "biome": null,
+      "timestamp": 1778529724
+    },
+    {
+      "auraName": "Lily",
+      "tier": "TRANSCENDENT",
+      "chance": "1 IN 112,000,000",
+      "biome": null,
+      "timestamp": 1778535011
+    }
+  ]
+}
