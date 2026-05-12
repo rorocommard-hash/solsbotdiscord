@@ -597,7 +597,7 @@ async function handleGlobalEvent(data) {
     const fields = [
       { name: 'Rarity', value: finalChance !== 'Inconnue' ? finalChance : '—', inline: true },
     ];
-    if (auraBiome) fields.push({ name: '🌍 Biome', value: auraBiome, inline: true });
+    // Biome masqué
     fields.push({ name: 'Time Discovered', value: `<t:${nowUnix}:R>`, inline: false });
 
     const embed = new EmbedBuilder()
