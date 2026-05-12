@@ -1242,4 +1242,11 @@ client.once('clientReady', async () => {
   setInterval(sendLinkReminder, FOUR_HOURS);
 });
 
+// Serveur HTTP pour Render (évite le crash "no open ports")
+const http = require('http');
+const PORT = process.env.PORT || 3000;
+http.createServer((req, res) => res.end('Bot en ligne!')).listen(PORT, () => {
+  console.log('[HTTP] Serveur keep-alive sur port', PORT);
+});
+
 client.login(config.token);
